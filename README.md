@@ -10,7 +10,7 @@ L’analisi si è focalizzata su tre indicatori principali:
 - `Alcohol, drinkers only per capita (15+) consumption (litres of pure alcohol)` → **Litres_Cons**
 - `Alcohol, abstainers lifetime (%)` → **Perc_Ast**
 
-L’intero workflow è stato implementato in **linguaggio R**, includendo fasi di pulizia, esplorazione grafica (EDA), test statistici e visualizzazioni comparative.
+L’intero workflow è stato implementato in **linguaggio R**, includendo fasi di preprocessing del dataset, analisi esplorativa dei dati (EDA), test statistici e visualizzazioni comparative.
 
 ---
 
