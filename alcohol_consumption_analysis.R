@@ -43,7 +43,7 @@ library(FSA)
 library(rcompanion)
 
 # Imposta manualmente la working directory
-setwd("C:/Users/angel/Documents/project_DSHS")
+setwd("insert/your/path/of/project_DSHS")
 
 # Controllo dei fogli nel file
 sheets <- excel_sheets("DATASET/data.xlsx")
