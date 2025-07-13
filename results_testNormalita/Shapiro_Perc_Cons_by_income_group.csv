@@ -1,0 +1,5 @@
+"gruppo","categoria","n","W","p_value"
+"income_group","Low income",1050,0.952,4.69e-18
+"income_group","Upper middle income",2100,0.96,1.52e-23
+"income_group","High income",2478,0.845,4.63e-44
+"income_group","Lower middle income",2100,0.962,5.52e-23
