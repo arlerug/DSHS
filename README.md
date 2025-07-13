@@ -1,5 +1,13 @@
 # Analisi esplorativa e statistica del consumo globale di alcol: evidenze da dati WHO disaggregati per fattori socio-demografici
+---
+## 👨‍💻 Autori
 
+- **Daniele Angeloni** – `daniele.angeloni@studenti.unipg.it`  
+- **Alessandra Ruggeri** – `alessandra.ruggeri@studenti.unipg.it`  
+
+*Università degli Studi di Perugia*  
+*Corso Data Science for Health Systems – A.A. 2024/2025*
+---
 ## 📊 Descrizione del progetto
 
 Questo progetto analizza le disuguaglianze nel consumo di alcol utilizzando dati disaggregati provenienti dall’**Health Inequality Data Repository** dell’Organizzazione Mondiale della Sanità (WHO).  
@@ -54,12 +62,5 @@ alla riga:
 ```
 setwd("insert/your/path/of/project_DSHS")
 ```
----
 
-## 👨‍💻 Autori
 
-- **Daniele Angeloni** – `daniele.angeloni@studenti.unipg.it`  
-- **Alessandra Ruggeri** – `alessandra.ruggeri@studenti.unipg.it`  
-
-*Università degli Studi di Perugia*  
-*Corso Data Science for Health Systems – A.A. 2024/2025*
