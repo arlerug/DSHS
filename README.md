@@ -1,6 +1,6 @@
 # Analisi esplorativa e statistica del consumo globale di alcol: evidenze da dati WHO disaggregati per fattori socio-demografici
 ---
-## 👨‍💻 Autori
+## Autori
 
 - **Daniele Angeloni** – `daniele.angeloni@studenti.unipg.it`  
 - **Alessandra Ruggeri** – `alessandra.ruggeri@studenti.unipg.it`  
@@ -8,7 +8,7 @@
 *Università degli Studi di Perugia*  
 *Corso Data Science for Health Systems – A.A. 2024/2025*
 ---
-## 📊 Descrizione del progetto
+## Descrizione del progetto
 
 Questo progetto analizza le disuguaglianze nel consumo di alcol utilizzando dati disaggregati provenienti dall’**Health Inequality Data Repository** dell’Organizzazione Mondiale della Sanità (WHO).  
 L’obiettivo è esaminare la diffusione, l’intensità e l’astensione dal consumo di alcol secondo variabili socio-demografiche come **genere**, **gruppo di reddito**, **regione WHO** e **trend temporali**.
@@ -22,7 +22,7 @@ L’intero workflow è stato implementato in **linguaggio R**, includendo fasi d
 
 ---
 
-## 🧪 Metodologia statistica
+## Metodologia statistica
 
 Per verificare l’ipotesi di disuguaglianza tra gruppi socio-demografici sono stati applicati:
 
@@ -35,7 +35,7 @@ Per verificare l’ipotesi di disuguaglianza tra gruppi socio-demografici sono s
 
 ---
 
-## 📁 Contenuti principali del progetto
+## Contenuti principali del progetto
 
 - `dataset_preprocessed.xlsx` – Dataset pulito e preprocessato
 - `alcohol_consumption_analysis.R` – Codice R completo del progetto
@@ -48,7 +48,7 @@ Per verificare l’ipotesi di disuguaglianza tra gruppi socio-demografici sono s
 
 ---
 
-## 🛠 Requisiti R
+## Requisiti R
 
 Assicurati di avere installato i seguenti pacchetti:
 
@@ -57,7 +57,7 @@ install.packages(c("dplyr", "ggplot2", "readxl", "writexl", "ggpubr",
                    "PMCMRplus", "FSA", "rcompanion", "patchwork", 
                    "tibble", "gridExtra", "tidyr", "stringr"))
 ```
-📌 **Nota**: nel file `alcohol_consumption_analysis.R` ricordati di **modificare il percorso assoluto della working directory**
+**Nota**: nel file `alcohol_consumption_analysis.R` ricordati di **modificare il percorso assoluto della working directory**
 alla riga:
 ```
 setwd("insert/your/path/of/project_DSHS")
